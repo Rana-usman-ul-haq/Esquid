@@ -4,10 +4,7 @@ pragma solidity 0.8.26;
 /*
 Twitter: https://x.com/Esquidity
 Telegram: https://t.me/ESQUIDERC
-GitBook: https://quid.gitbook.io/esquid
 Website: https://esquidescrow.com
-Medium: https://medium.com/@Esquid
-LinkTree: https://linktr.ee/Esquid
 */
 
 abstract contract Context {
